@@ -4,9 +4,9 @@ pipeline {
 
     environment {
 
-        DEV_SERVER = "13.206.206.32"
-        STG_SERVER = "35.154.68.107"
-        PRD_SERVER = "13.206.89.157"
+        DEV_SERVER = "43.205.215.191"
+        STG_SERVER = "43.205.114.20"
+        PRD_SERVER = "13.201.48.13"
 
         SERVER_USER = "ec2-user"
     }
